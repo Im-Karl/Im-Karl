@@ -16,8 +16,6 @@ Focused on **systems that don't break under concurrency** — payments, queues, 
 ---
 
 ### 🚀 About Me
-
-- 💼 **Frontend Developer Intern** at [HomeNest Software](https://homenest.com.vn/) *(Sep 2026 – Dec 2026)* — building CRM frontend with **Next.js 16 (App Router)**, **TypeScript**, and **CSS Modules**.
 - 🎓 **B.Sc. in Software Engineering** at **Ton Duc Thang University** *(2023 – 2027)* — Faculty-level Student Scientific Research (*StockEx, 2025–2026*).
 - ⚙️ **Core Focus:** High-concurrency backend, dual-layer idempotency, transactional outbox, and asynchronous messaging.
 - 💬 **Ask me about:** Java 21, Spring Boot, Redis locking/rate-limiting, RabbitMQ DLQ, or Next.js architecture.
